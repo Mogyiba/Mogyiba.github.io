@@ -2290,8 +2290,8 @@ body {
   }
 }
 .cid-qyHR3aYSJv {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qyHR3aYSJv .title {
@@ -2315,4 +2315,7 @@ body {
 .cid-qyHR3aYSJv .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qyHR3aYSJv LABEL {
+  color: #767676;
 }
